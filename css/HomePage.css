@@ -7,15 +7,14 @@
    
 }
 .title{
-    font-family: 'Cinzel', serif;
+  font-family: 'Magra', sans-serif;
     font-size: 5vmax;
     color:#fff ;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     margin-top: 30px;
 }
 .title2{
-    font-family: 'Cinzel', serif;
-    font-size: 3vmax;
+  font-family: 'Magra', sans-serif;    font-size: 3vmax;
     color:#fff ;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
@@ -31,39 +30,51 @@
 
     
   }
-  .subheading{
-    font-family: 'Cinzel', serif;
-    font-size: 2.5vw;
+  .footnote{
+    font-family: 'Magra', sans-serif;    font-size: 3vmax;
     color:rgb(39, 39, 39) ;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     margin-top: 30px;
   }
-  article{
-    font-family: 'Cinzel', serif;
-    font-size: 20px;
-    color:rgb(39, 39, 39) ;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  p{
+    font-family: 'Magra', sans-serif;
+    font-size: 150%;
+        color:rgb(39, 39, 39) ;
+    
   }
   .chunk{
     border-style: solid;
     border-width: 5px;
     border-color: rgba(131, 131, 131, 0.767);
     border-spacing: 5px 10px;
-    width: 600px;
-    height: 500px;
-    margin-left: 10px;
-    margin-top: 60px; 
-    margin-bottom: 50px;
-    padding-right: 30px;
+    margin-left: 15%;
+    margin: 5%;
+    width: 100%;
+    min-width: 400px;
     box-shadow:10px 10px 10px 10px grey;
-   
+    height: 60%;
    
   }
+    .chunk{
+      border-style: solid;
+      border-width: 5px;
+      border-color: rgba(131, 131, 131, 0.767);
+      border-spacing: 5px 10px;
+      margin-left: 15%;
+      margin: 5%;
+      width: 100%;
+      min-width: 250px;
+      box-shadow:10px 10px 10px 10px grey;
+      height: 600px;
+     
+    }
+  
+ 
   img{
-      width: 500px;
-      height: 300px;
-      margin: 40px;
-      margin-top: 50px;
+      width:  90%;
+      height: 60%;
+      margin: 5%;
+      margin-bottom: 10%;
   }
   .bottom {  
     
