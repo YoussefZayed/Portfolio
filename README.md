@@ -1,5 +1,7 @@
 # Portfolio
-This is a portfolio for Youssef Zayed
-It will be updated as time goes on,
-feel free to contact me with the information provided 
-Note: used bootstrap for project
+This is my portfolio and it is still a work in progress. 
+This is my first web appliction project.
+
+# it is currently live at YoussefZayed.com
+
+bootstrap is used for project
