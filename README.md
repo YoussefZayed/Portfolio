@@ -4,4 +4,5 @@ This is my first web appliction project.
 
 # it is currently live at YoussefZayed.com
 
-bootstrap is used for project
+No templates have been used to create this website.
+Materialize framework used.
