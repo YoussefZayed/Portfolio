@@ -1,0 +1,25 @@
+.start_of_page {
+    background-image: url("../resources/Youssef_outside_BW.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 90vh;
+   
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+.pad-left{
+    margin-left: 15px;
+}
+.section{
+    height: 500px;
+}
+.padup{
+    margin-top: 30px;
+}
