@@ -1,21 +1,32 @@
-.start_of_page {
-    background-image: url("../resources/Youssef_outside_BW.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
+html {
+    background: url("../resources/splash_background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    height: 90vh;
+    scroll-behavior: smooth;
    
 }
-html{
-    scroll-behavior: smooth;
-}
+
+.transnav * {
+    background-color: rgba(0,0,0,0)!important;
+   }
+
 body{
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Nova Round', cursive;
     
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+  }
 a{
- text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; 
+    margin-left: 8px;
+    margin-right: 8px;
 }
 .pad-left{
     margin-left: 35px;
@@ -24,11 +35,16 @@ a{
     height: 500px;
 }
 .padup{
-    margin-top: 30px;
+    margin-top: 6%;
 }
-.text-color{
-    color: #303f9f;
+.reallypadup{
+    margin-top: 15%;
 }
-.whiteText{
+
+
+.textOnWhite{
+    color: #000000;
+}
+.textOnBlack{
     color: #ffffff;
 }
